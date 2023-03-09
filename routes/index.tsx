@@ -1,7 +1,11 @@
 export default function Home() {
   return (
     <div class="mt-16 mx-auto space-y-12 max-w-screen-md">
-      <iframe class="w-full h-[360px]" src="https://hashrock.netlify.com/components/editme.html"></iframe>
+      <iframe
+        class="w-full h-[360px]"
+        src="https://hashrock.netlify.com/components/editme.html"
+      >
+      </iframe>
 
       <h1 class="text-4xl">@hashrock</h1>
       <ul class="list-circle">
