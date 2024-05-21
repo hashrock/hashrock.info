@@ -3,7 +3,7 @@ export default function Home() {
     <div class="mt-16 mx-auto space-y-12 max-w-screen-md">
       <iframe
         class="w-full h-[360px]"
-        src="https://hashrock.netlify.com/components/editme.html"
+        src="https://hashrock.netlify.app/components/editme.html"
       >
       </iframe>
 
